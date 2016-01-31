@@ -21,6 +21,7 @@ public class Asd {
         }
         for (int i = 0; i < 10; i++) {
             System.out.println("nowe linie");
+            System.out.println("nowe linie");
         }
     }
     
